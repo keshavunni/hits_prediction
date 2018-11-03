@@ -1,1 +1,5 @@
 hits_data.csv
+trivago_cleaned.csv
+trivago_cleaned_dummy.csv
+X_test_all_cat.csv
+result_ran_reg.csv
